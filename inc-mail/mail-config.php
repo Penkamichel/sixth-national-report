@@ -1,5 +1,6 @@
 <?php
-    $to = 'info@unbiodiversitylab.org';
+    #$to = 'info@unbiodiversitylab.org';
+    $to = 'roger.ingle@unep-wcmc.org';
 
     $subject = 'UNBiodiversityLab';
 
